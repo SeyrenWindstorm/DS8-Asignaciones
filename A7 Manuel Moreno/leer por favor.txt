@@ -1,0 +1,1 @@
+Saludos Profesora no se por que no se ve el value del datagrid debe de hacerle click para poder veerlo pero los numeros del input box estan ahí solo que no se veen

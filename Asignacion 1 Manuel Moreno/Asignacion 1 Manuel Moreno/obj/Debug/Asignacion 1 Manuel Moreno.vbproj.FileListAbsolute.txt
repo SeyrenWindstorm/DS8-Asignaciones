@@ -1,0 +1,12 @@
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\bin\Debug\Asignacion 1 Manuel Moreno.exe.config
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\bin\Debug\Asignacion 1 Manuel Moreno.exe
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\bin\Debug\Asignacion 1 Manuel Moreno.pdb
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\bin\Debug\Asignacion 1 Manuel Moreno.xml
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion 1 Manuel Moreno.vbproj.AssemblyReference.cache
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion_1_Manuel_Moreno.Form1.resources
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion_1_Manuel_Moreno.Resources.resources
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion 1 Manuel Moreno.vbproj.GenerateResource.cache
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion 1 Manuel Moreno.vbproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion 1 Manuel Moreno.exe
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion 1 Manuel Moreno.xml
+C:\Users\manue\Desktop\Desarrollo 8\Asignacion 1 Manuel Moreno\Asignacion 1 Manuel Moreno\obj\Debug\Asignacion 1 Manuel Moreno.pdb

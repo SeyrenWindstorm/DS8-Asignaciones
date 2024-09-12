@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\bin\Debug\Asignacion7.exe.config
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\bin\Debug\Asignacion7.exe
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\bin\Debug\Asignacion7.pdb
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\bin\Debug\Asignacion7.xml
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.vbproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.frmSplash.resources
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.frmMDI.resources
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.Resources.resources
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.vbproj.GenerateResource.cache
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.vbproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.exe
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.xml
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.pdb
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.Salir.resources
+C:\Users\manue\source\repos\Asignacion7\Asignacion7\obj\Debug\Asignacion7.Matriz.resources

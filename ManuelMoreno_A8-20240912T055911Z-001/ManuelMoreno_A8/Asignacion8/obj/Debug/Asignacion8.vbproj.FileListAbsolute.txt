@@ -1,0 +1,12 @@
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\bin\Debug\Asignacion8.exe.config
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\bin\Debug\Asignacion8.exe
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\bin\Debug\Asignacion8.pdb
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\bin\Debug\Asignacion8.xml
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.vbproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.Form1.resources
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.Resources.resources
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.vbproj.GenerateResource.cache
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.vbproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.exe
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.xml
+C:\Users\manue\source\repos\ManuelMoreno_A8\Asignacion8\obj\Debug\Asignacion8.pdb

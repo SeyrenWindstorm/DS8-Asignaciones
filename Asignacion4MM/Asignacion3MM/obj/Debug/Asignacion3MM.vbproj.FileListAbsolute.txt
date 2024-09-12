@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\bin\Debug\Asignacion3MM.exe.config
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\bin\Debug\Asignacion3MM.exe
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\bin\Debug\Asignacion3MM.pdb
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\bin\Debug\Asignacion3MM.xml
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.vbproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.Resources.resources
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.vbproj.GenerateResource.cache
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.vbproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.exe
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.xml
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.pdb
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.FormCuentas.resources
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.FormPrincipal.resources
+C:\Users\manue\source\repos\Asignacion3MM\Asignacion3MM\obj\Debug\Asignacion3MM.FormOperacion.resources
